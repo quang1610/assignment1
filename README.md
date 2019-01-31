@@ -5,4 +5,4 @@ Members of assigment group:
 - Quang Nguyen
 
 This repo contains 2 Classes CaesarCipher.Class and VigenereCipher.Class, which provide functions to encode and decode String using Caesar encryption and Vigenere encryption.
-- We finish this assignment all on our own, using Eclipse.
+- We look up how to use System.err at: https://www.systutorials.com/241729/how-to-print-a-line-to-stderr-and-stdout-in-java/
